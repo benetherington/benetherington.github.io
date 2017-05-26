@@ -1,0 +1,18 @@
+# Site settings
+title: Ben Etherington
+email: ben.j.etherington@gmail.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://benetherington.com" # the base hostname & protocol for your site
+
+# Identity
+your-name: Ben Etherington
+your-title: Podcaster, maker, fake web dev
+
+# Social settings
+github_url: https://github.com/benetherington
+instagram_url: https://instagram.com/hapaxlegomina
+linkedin_url: https://www.linkedin.com/in/benjetherington/
+twitter_url: https://twitter.com/benetherington
+
+# Build settings
+markdown: kramdown
